@@ -5,11 +5,11 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: process.env.YOUTUBE_API_KEY,
-    mongoUri: process.env.MONGO_URI,
+    youtubeApiKey: 'AIzaSyCugcpVn3q3r9CmuV6xHu8yLydvREXL4oQ,
+    mongoUri: 'mongodb+srv://axo:axoop@cluster0.imckmpc.mongodb.net/?retryWrites=true&w=majority,
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
-        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+        clientId: '731ac5bf0603411f80ac446f5c02e290,
+        clientSecret:'cd16a34c385b4fa5915abd596fd4e480,
     },
     cookies:{
         domain: ".youtube.com",
